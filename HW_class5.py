@@ -25,3 +25,5 @@ print(info)
 
 for fruit, price in info.items() :
     print(f'fruit : {fruit} \nprice : {price} \n')
+
+print('--------------------------------end---------------------------------------------------')
